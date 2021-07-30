@@ -1,6 +1,7 @@
 window.onload=function()
 {
    checkuser();
+   bookinginfo();
 }	
 
 let p_image;
@@ -100,8 +101,6 @@ function keyup(obj){
     
     
     
-//金流串接
-//TPDirect.setupSDK 設定參數
-TPDirect.setupSDK(20410, 'app_6kKSn4u2u1s6pgS7hXRxMaLLhygWHuSSazLpsGAlPM5GX9mlKCEjTapkC4H6', 'sandbox')
+
 
 
