@@ -178,7 +178,7 @@ nav > .new>.menu{
 .imgdiv > .imggreen{
     height: 35px;
     position: relative;
-    top: -35px;
+    top: -38px;
     left: 365px;
     z-index: 0;
 }
@@ -200,7 +200,7 @@ nav > .new>.menu{
 .house > img{
     position: relative;
     left: 500px;
-    bottom: 261px;
+    bottom: 271px;
     }
 
 .menutype{
@@ -355,7 +355,7 @@ nav > .new>.menu{
     .house > img{
         width: 120%;
         position: relative;
-        top: 0px;
+        top: -10px;
         left: -10px;
     }
 
@@ -383,7 +383,7 @@ nav > .new>.menu{
     .house > img{
         position: relative;
         left: 378px;
-        bottom: 132px;
+        bottom: 142px;
         width: 80%;
     }
 
@@ -417,7 +417,7 @@ nav > .new>.menu{
     .imgdiv > .imggreen {
         height: 35px;
         position: relative;
-        top: -35px;
+        top: -38px;
         left: 313px;
         z-index: 1;
     }
@@ -526,15 +526,15 @@ nav > .new>.menu{
     .imgdiv > .imggreen {
         height: 35px;
         position: relative;
-        top: -35px;
+        top: -38px;
         left: 165px;
         z-index: 1;
     }
     .house > img{
-        width: 256px;
+        width: 243px;
         position: relative;
-        top: -46px;
-        left: 47px;
+        top: -50px;
+        left: 43px;
         }
 
     .divscr {
